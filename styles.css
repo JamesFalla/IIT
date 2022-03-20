@@ -1,5 +1,5 @@
 html, body {
-	background: #8FBB99;
+	background: #ACCBE1;
 	font-family: arial, san-serif;
 	font-size: 16px;
 	color:#363635;
@@ -8,35 +8,34 @@ html, body {
 	font-size:1em;
 	line-height:1.4em;
 	margin-bottom:20px;
-	color:#ADF7B6;
+	color:#637081;
 }
-	#container {
-	width:90%;
-	maxwidth: 900px;
-	background:#17B890;
-	margin: 30px auto;
-}
-	#head {
-	width:90%;
-	maxwidth: 900px;
-	background:#082D0F;
-	margin: 30px auto;
+	ul {
+	font-size:1em;
+	line-height:1.4em;
+	margin-bottom:20px;
+	color:#637081;
 }
 	h1 {
 	border-bottom: 1px solid #082D0F;
 	padding:20px 0 0;
 }
-
 	h2 {
 	font-size:20px;
-	color:#082D0F;
+	color:#1E1A1D;
 	padding:20px 0 0;
 }
-
-	h3 {
-	font-size:15px;
-	color:#082D0F;
-	padding:20px 0 0;
+	#page {
+	width:90%;
+	maxwidth: 900px;
+	background:#9DC5BB;
+	margin: 30px auto;
+}
+	#reference {
+	width:90%;
+	maxwidth: 900px;
+	background:#9DC5BB;
+	margin: 30px auto;
 }
 	section {
 	border-top: 1px solid #5E807F;
