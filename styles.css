@@ -10,13 +10,13 @@ html, body {
 	margin-bottom:20px;
 	color:#ADF7B6;
 }
-	contactdetails {
+	#contactdetails {
 	width:90%;
 	maxwidth: 900px;
 	background:#DEE5E5;
 	margin: 30px auto;
 }
-	mainArea {
+	#mainArea {
 	padding:25px 35px;
 	border-bottom: 2px solid #ADF7B6;
 	background: #9DC5BB;
