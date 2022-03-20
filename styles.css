@@ -41,3 +41,9 @@ section {
 	border-top: 1px solid #5E807F;
 	padding: 20px 0 0;
 }
+section:first-child {
+	border-top: 0;
+}
+section:last-child {
+	padding: 20px 0 10px;
+}
