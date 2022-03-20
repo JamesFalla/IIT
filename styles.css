@@ -13,7 +13,13 @@ html, body {
 	#container {
 	width:90%;
 	maxwidth: 900px;
-	background:#DEE5E5;
+	background:#17B890;
+	margin: 30px auto;
+}
+	#head {
+	width:90%;
+	maxwidth: 900px;
+	background:#082D0F;
 	margin: 30px auto;
 }
 	h1 {
